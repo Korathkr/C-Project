@@ -1,0 +1,13 @@
+﻿  main.c
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(100,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(121,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(297,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(342,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(385,57): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(441,20): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(482,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(483,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(502,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(505,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\파일\2021\C언어\C(2)프로젝트\210606\main.c(530,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  210606.vcxproj -> D:\파일\2021\C언어\C(2)프로젝트\210606\x64\Debug\210606.exe
